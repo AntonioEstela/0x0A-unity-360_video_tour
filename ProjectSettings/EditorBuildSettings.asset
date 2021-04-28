@@ -17,4 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MezzanineScene.unity
     guid: 9a960876d2d3b5f409362c9a5a6e80d3
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ca348100b079b7f4a825c4642ea33725,
+      type: 2}
