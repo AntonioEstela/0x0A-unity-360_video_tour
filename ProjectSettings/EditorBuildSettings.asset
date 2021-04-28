@@ -7,7 +7,7 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Living RoomScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    guid: 80af4251d5a8ef346955c5f0f2cf19c9
   - enabled: 1
     path: Assets/Scenes/CantinaScene.unity
     guid: 818b5f2c2e1524a4b8d6549ab506d926
